@@ -8,4 +8,7 @@ for i in list:
     if type(i)==int:
         numbers.append(i)
 print("names:",names)
+
 print("numbers:",numbers)
+
+print("Hello")
