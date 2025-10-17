@@ -1,4 +1,4 @@
-# LISTS :
+
 # List is the ordered collection of elements.
 # Lists is used to represent group of elements in ordered way with dynamic nature.
 # Lists are ordered, mutable, and allow duplicate values.
