@@ -7,3 +7,4 @@ for i in range(0,rows):
         else:
             print("  ",end=" ")
     print()
+#rectanglar hollow pattern
