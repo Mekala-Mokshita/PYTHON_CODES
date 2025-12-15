@@ -23,6 +23,8 @@ class GraduateStudent(Student): #inherit prop and methods from student parent cl
         print(f'Stream is {self.stream}')
         
 #object        
-
+Grad_Student1=GraduateStudent('Kingkonk',12,95,'PCM')
+#print(Grad_Student1.stream)
+Grad_Student1.student_details()
 
         
