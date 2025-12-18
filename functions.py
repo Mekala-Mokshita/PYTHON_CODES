@@ -60,7 +60,7 @@ print(even)
 #import functools functools.reduce() (#first way)-it imports all so takes 
 from functools import reduce #second way
 sum=reduce(lambda x,y:x+y,l)
-print(sum)
+print(sum) #gives sum of all elements in list
  
 
 
