@@ -21,7 +21,7 @@ class GraduateStudent(Student):
 
 #object-Student class
 student1=Student("manohar",11,93)
-#object-GraduateStudent class     
+ #object-GraduateStudent class     
 Grad_Student1=GraduateStudent('Kingkonk',12,95,'PCM')
 student1.student_details()
 Grad_Student1.student_details()
