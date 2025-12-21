@@ -1,5 +1,5 @@
 #number is perfect square or not
-n=int(input())
+n=int(input("Enter a number: "))
 i=1
 is_perfect_square=False
 while i*i<=n:

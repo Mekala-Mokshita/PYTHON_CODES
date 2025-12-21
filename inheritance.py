@@ -1,4 +1,3 @@
-#Inheritance:-----
 class Student:  #student class
     def __init__(self,name,grade,percentage):
         self.name=name
