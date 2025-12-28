@@ -24,5 +24,5 @@ def speech_to_text(filename="output.wav"):
 
 # Run it
 record_audio(5)  # Record 5 seconds
-speech_to_text()
+speech_to_text()    
 
