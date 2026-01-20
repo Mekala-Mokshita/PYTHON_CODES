@@ -6,3 +6,4 @@ for i in range(0,n):
         else:
             print("  ",end=" ")
     print()
+#square shaped hollow pattern
