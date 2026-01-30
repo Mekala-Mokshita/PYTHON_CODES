@@ -6,5 +6,5 @@ for i in listnums:
         break
     seen.add(i)
 else:
-    print("False")
+    print("False") #displays output
         
