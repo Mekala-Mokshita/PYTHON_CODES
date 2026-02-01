@@ -17,7 +17,7 @@ model=genai.GenerativeModel("gemini-flash-latest")
 #important
 app=FastAPI()
 app.add_middleware(CORSMiddleware,allow_methods=["*"],allow_origins=["*"],allow_headers=["*"])
-chat_session=model.start_chat(history=[])  #to save the previous records,responses and requests
+chat_session=model.start_chat(history=[])  #to save the previous records,responses and request
 
 @app.post("/chat")#127.0.0.1:8000/{"input token"}
 async def chatbox(req:ChatRequest):
