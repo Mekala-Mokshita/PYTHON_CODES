@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input()) #num of lines
 #1.Inverted (Reverse) Number Triangle aligned to the Left:-
 for i in range(5,0,-1):      #Controls the number of rows
     for j in range(i,0,-1):  #Prints numbers in each row.
