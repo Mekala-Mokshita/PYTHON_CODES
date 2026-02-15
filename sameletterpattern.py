@@ -4,3 +4,4 @@ for i in range(1,n+1):
     
 #can take as ((65+i)+" ")*i+1 it will work when loop is for(n):-capital means with 65 or if small 97.
 
+#ASCII of A is 65
