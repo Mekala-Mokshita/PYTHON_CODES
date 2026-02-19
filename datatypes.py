@@ -1,0 +1,11 @@
+#primitive:-int,float,str,boolean,complex
+#non-primitive:-list,tuple,set,dictionary
+#mutable:-list,set,dictionary   
+#immutable:-int,float,str,boolean,complex,tuple
+a=10
+print(type(a))
+f=10.555
+print(type(f))
+c=10+5j
+print(type(c))
+print(c.real,c.imag)
