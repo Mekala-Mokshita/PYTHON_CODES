@@ -1,3 +1,4 @@
+#floor and ceil of a number in a sorted array
 arr=[10,20,30,40,50]
 target=25
 left=0 #low
