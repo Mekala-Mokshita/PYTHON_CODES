@@ -1,3 +1,4 @@
+#hollow pattern rectangle
 rows=int(input())
 cols=int(input())
 for i in range(0,rows):
