@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-.env
-.vscode/
-anaconda3/
-AppData/
-Downloads/
-*.ipynb
