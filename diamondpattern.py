@@ -1,3 +1,4 @@
+# Program to print the pattern of diamond
 n=int(input())
 for i in range(1,n+1): #we will this loop in left side pyramid
     print(" "*(n-i),"* "*i)
