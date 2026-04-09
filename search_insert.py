@@ -1,3 +1,4 @@
+#search insert position
 arr=[1,2,4,7]
 target=6
 ans=len(arr)
