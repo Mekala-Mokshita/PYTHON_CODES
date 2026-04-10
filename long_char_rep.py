@@ -1,3 +1,4 @@
+# Longest Repeating Character Replacement(from leetcode)
 def characterReplacement(s, k):
     freq = {}          # store frequency of characters
     left = 0
