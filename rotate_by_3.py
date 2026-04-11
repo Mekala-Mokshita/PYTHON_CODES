@@ -1,3 +1,4 @@
+#rotate by 3 numbers
 num = [1, 2, 3, 4, 5,6,7]
 temp1 = num[0]
 temp2=num[1]
