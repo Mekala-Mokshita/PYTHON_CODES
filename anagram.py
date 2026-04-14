@@ -1,3 +1,4 @@
+#anagram:same characters but different order
 s=input()
 t=input()
 def result(s,t):
