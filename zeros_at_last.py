@@ -1,4 +1,4 @@
-#zeros at last
+#zeros at last by python 
 arr=[2,0,3,5,0,0,10,11]
 first_arr=[]#list1
 second_arr=[]#list2
